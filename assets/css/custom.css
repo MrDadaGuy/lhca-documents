@@ -19,9 +19,8 @@
     height: 80px;
     background-size: cover;
     background-position: center;
-    background-image: url('{{ "images/lhca-drone.jpg" | relURL }}');
-}
-
+    background-image: url("{{ "images/myimage.jpg" | relURL }}");
+  }
 
 .fw2, .fw4
 {
