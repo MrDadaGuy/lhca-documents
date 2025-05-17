@@ -22,11 +22,16 @@
       {{- end -}}
       <meta name="author" content="{{ $author }}">
     {{ end }}
+
+    {{ $customCSS := resources.Get "themes/ananke/assets/ananke/css/custom.css" }}
+    {{ if $customCSS }}
+      <link rel="stylesheet" href="{{ $customCSS.Permalink }}" media="screen">
+    {{ else }}
+      {{ errorf "Error: Could not find themes/ananke/assets/css/custom.css" }}
+    {{ end }}
+
     {{ partials.Include "site-style.html" . }}
     {{ partials.Include "site-scripts.html" . }}
-
-    {{ $customCSS := resources.Get "themes/ananke/assets/ananke/css/custom.css" | toCSS | minify | fingerprint }}
-    <link rel="stylesheet" href="{{ $customCSS.Permalink }}" media="screen">
 
     {{ block "favicon" . }}
       {{ partials.IncludeCached "site-favicon.html" . }}
