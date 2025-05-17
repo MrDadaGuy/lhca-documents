@@ -27,7 +27,7 @@
     {{ if $customCSS }}
       <link rel="stylesheet" href="{{ $customCSS.Permalink }}" media="screen">
     {{ else }}
-      {{ errorf "Error: Could not find themes/ananke/assets/css/custom.css" }}
+      {{ errorf "Error: Could not find themes/ananke/assets/ananke/css/custom.css" }}
     {{ end }}
 
     {{ partials.Include "site-style.html" . }}
