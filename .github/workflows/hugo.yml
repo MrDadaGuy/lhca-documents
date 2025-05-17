@@ -49,7 +49,7 @@ jobs:
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Copy custom.css into Ananke theme
-        run: cp assets/css/custom.css themes/ananke/assets/css/custom.css
+        run: cp assets/css/custom.css themes/ananke/assets/ananke/css/custom.css
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
