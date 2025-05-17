@@ -1,0 +1,45 @@
+/* Default: short hero for all pages */
+
+  .bg-top {
+    position: relative;
+    height: 400px;
+  }
+  
+  header.cover > div.bg-black-60 {
+    background-color: rgba(0,0,0,.4);
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+  }
+
+.bg-black {
+    background-color: rgba(0,0,0,.85);
+    height: 80px;
+    background-size: cover;
+    background-position: center;
+    background-image: url('/images/lhca-drone.jpg');
+}
+
+
+.fw2, .fw4
+{
+    color: white;
+    text-shadow: 
+      3px 3px 8px rgba(0, 0, 0, 0.9),
+      0 0 15px rgba(0, 0, 0, 0.7),
+      0 0 20px rgba(0, 0, 0, 0.6);
+    font-weight: 400;
+}
+
+.w-two-thirds-l {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+aside {
+    display: none;
+  }
+  
+
