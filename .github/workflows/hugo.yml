@@ -43,8 +43,6 @@ jobs:
         uses: actions/checkout@v4
         with:
           submodules: recursive
-      - name: Copy custom.css into Ananke theme
-        run: cp assets/css/custom.css themes/ananke/assets/ananke/css/custom.css
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
