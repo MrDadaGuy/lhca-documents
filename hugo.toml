@@ -1,0 +1,38 @@
+languageCode = 'en-us'
+title = 'Lake Hills Community Association'
+theme = 'ananke'
+subheadline = "Welcome to LHCA!"
+paginate = 0
+
+[params]
+  featured_image = "/images/lhca-drone.jpg"
+  show_all_posts_on_homepage = false
+  show_recent_posts = false
+  show_recent = false
+  custom_css = ["custom.css"]
+
+
+[development]
+  baseURL = "http://localhost:1313/"
+
+[production]
+  baseURL = "https://mrdadaguy.github.io/lhca-documents/"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/main"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "section1"
+    name = "Section 1"
+    url = "/section1"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "fart"
+    name = "fart"
+    url = "/fart"
+    weight = 2
