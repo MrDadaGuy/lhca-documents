@@ -23,11 +23,10 @@
       <meta name="author" content="{{ $author }}">
     {{ end }}
 
-    
     {{ partials.Include "site-style.html" . }}
     {{ partials.Include "site-scripts.html" . }}
 
-    {{ $customCSS := resources.Get "themes/ananke/assets/ananke/css/custom.css" | toCSS | minify | fingerprint }}
+    {{ $customCSS := resources.Get "../themes/ananke/assets/ananke/css/custom.css" | toCSS | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $customCSS.Permalink }}" media="screen">
 
     {{ block "favicon" . }}
