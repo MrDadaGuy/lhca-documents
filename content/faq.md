@@ -13,7 +13,7 @@ title = 'Frequently Asked Questions'
 
 {{< faq-item question="Is the park open to the public?" >}}
 No!  Now go away or I will taunt you a second time!
-![pfft](https://misc-ramblings.com/wp-content/uploads/monty-python-french-taunting.jpg)
+<img src=https://misc-ramblings.com/wp-content/uploads/monty-python-french-taunting.jpg />
 {{< /faq-item >}}
 
 
