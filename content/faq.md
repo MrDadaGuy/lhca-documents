@@ -16,8 +16,10 @@ title = 'Frequently Asked Questions'
 
 ### Question 2
 <details>
-  <summary>How do I install Hugo?</summary>
-  You can install Hugo by downloading the appropriate binary for your operating system from the official Hugo releases page or by using a package manager.
+  <summary>Is it open to the public?</summary>
+  NO, the park is private property.
+  
+
 </details>
 
 ### Question 3
