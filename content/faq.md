@@ -8,8 +8,10 @@ title = 'Frequently Asked Questions'
 
 ### Question 1
 <details>
-  <summary>What is Hugo?</summary>
-  Hugo is a static site generator written in Go. It is known for its speed and flexibility.
+  <summary>Who owns the park?  How is it run?</summary>
+    The park is owned and managed by Lake Hills Park Assocation, a 501(c)(7) organization.
+    The association operates according to its By-Laws, and is administered by an All Volunteer Board of Directors, per the By Laws.
+    The day to day management of the park is handled by [Community Association Managers](<https://camanagers.com>).
 </details>
 
 ### Question 2
