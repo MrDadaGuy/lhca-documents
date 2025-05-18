@@ -12,13 +12,6 @@ title = 'Frequently Asked Questions'
 
 
 
-{{< faq-item question="Is the park open to the public?" >}}
-No!  Now go away or I will taunt you a second time!
-<img src="https://misc-ramblings.com/wp-content/uploads/monty-python-french-taunting.jpg" />
-{{< /faq-item >}}
-
-
-
 {{< faq-item question="Who can use the park?" >}}
 Access Rights:  A person might have access to the property based on their LHCA Membership, or “Deeded Access”, both, or neither.
 <ul>A person or household may be eligible to use the property if:
@@ -44,6 +37,12 @@ Membership is capped and there is often a wait list to get a membership position
 {{< /faq-item >}}
 
 
+{{< faq-item question="Is the park open to the public?" >}}
+No!  Now go away or I will taunt you a second time!
+<img src="https://misc-ramblings.com/wp-content/uploads/monty-python-french-taunting.jpg" />
+{{< /faq-item >}}
+
+
 
 {{< faq-item question="Deeded Access?  Easement?" >}}
 <ul>
@@ -66,24 +65,4 @@ In this case, early developers of the area decided that “Lot 4” should be re
 </li>
 </ul>
 {{< /faq-item >}}
-
-
-
-
-
-
-
-
-
-
-
-
-## Rights of Sections 1, 2, and 3:
-
-Board is empowered to create and enforce “reasonable rules and regulations”
-
-Rights of the adjacent 826.16 acres:
-
-Similar rights and obligations of Sections 1, 2, and 3
-
 

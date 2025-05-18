@@ -16,25 +16,19 @@ paginate = 0
   baseURL = "http://localhost:1313/"
 
 [production]
-#  baseURL = "https://mrdadaguy.github.io/lhca-documents/"
    baseURL = "https://docs.lakehillsca.org/"
 
 
 [menu]
   [[menu.main]]
-    identifier = "about"
-    name = "About"
+    identifier = "history"
+    name = "History"
     url = "/main"
     weight = 1
 
   [[menu.main]]
-    identifier = "FAQ"
+    identifier = "faq"
     name = "FAQ"
     url = "/faq"
     weight = 2
 
-  [[menu.main]]
-    identifier = "section2"
-    name = "Section 2"
-    url = "/section2"
-    weight = 3
