@@ -6,9 +6,6 @@ paginate = 0
 
 [params]
   featured_image = "/images/lhca-drone.jpg"
-  show_all_posts_on_homepage = false
-  show_recent_posts = false
-  show_recent = false
   custom_css = ["/css/custom.css"]
 
 
@@ -23,7 +20,7 @@ paginate = 0
   [[menu.main]]
     identifier = "history"
     name = "History"
-    url = "/main"
+    url = "/history"
     weight = 1
 
   [[menu.main]]
