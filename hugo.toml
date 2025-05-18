@@ -34,7 +34,7 @@ paginate = 0
     weight = 2
 
   [[menu.main]]
-    identifier = "fart"
-    name = "fart"
-    url = "/fart"
-    weight = 2
+    identifier = "section2"
+    name = "Section 2"
+    url = "/section2"
+    weight = 3
