@@ -9,7 +9,7 @@ paginate = 0
   show_all_posts_on_homepage = false
   show_recent_posts = false
   show_recent = false
-  custom_css = ["css/custom.css"]
+  custom_css = ["/css/custom.css"]
 
 
 [development]
@@ -17,6 +17,7 @@ paginate = 0
 
 [production]
   baseURL = "https://mrdadaguy.github.io/lhca-documents/"
+
 
 [menu]
   [[menu.main]]
