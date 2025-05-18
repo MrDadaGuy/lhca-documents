@@ -11,23 +11,23 @@ The “Western 303” ft, upon which certain rights were granted at a later poin
 
 Access Rights - A person might have access to the property based on their LHCA Membership, or “Deeded Access”, or both.
 
-## **Membership**
+## Membership
 
 Eligibility for Membership is not dependent on Deeded Access rights, but rather on the membership boundaries and eligibility criteria in the By Laws, which permits the membership to decide changes to the boundaries. Such extensions to membership boundary get proposed from time to time in the annual ballot.
 
-**\### Deeded Access (Easement Rights)**
+## Deeded Access (Easement Rights)
 
-\* Deeded Access rights generally refer to Easements on the park property itself. Contrary to some misunderstanding, it is irrelevant whether your property deed has any reference to the park property. What matters is what legal rights are bound up with the park property itself.
+* Deeded Access rights generally refer to Easements on the park property itself. Contrary to some misunderstanding, it is irrelevant whether your property deed has any reference to the park property. What matters is what legal rights are bound up with the park property itself.
 
-\* An easement is a type of property right; it is a legal encumbrance that runs with a parcel of land, in this case, some neighboring properties carry the right to enter parts or all of the Park property.
+* An easement is a type of property right; it is a legal encumbrance that runs with a parcel of land, in this case, some neighboring properties carry the right to enter parts or all of the Park property.
 
-\* An easement is a right to use, access, or traverse one piece of property that is granted to another person or another parcel of property.
+* An easement is a right to use, access, or traverse one piece of property that is granted to another person or another parcel of property.
 
 In this case, early developers of the area decided that “Lot 4” should be reserved and access rights provided to lure buyers to adjoining tracts to increase their appeal / value.
 
-Deeded Access Map - this is intended to be representative, it may not be exact but it is generally correct and the outer boundary is sufficiently accurate. The exact demarcations from one survey to another are adequately representative, but are not based on a survey by the author of these maps and this documentation.
+[Deeded Access Map](<https://boundaries.lakehillsca.org/>) - this is intended to be representative, it may not be exact but it is generally correct and the outer boundary is sufficiently accurate. The exact demarcations from one survey to another are adequately representative, but are not based on a survey by the author of these maps and this documentation.
 
-Rights of Sections 1, 2, and 3:
+## Rights of Sections 1, 2, and 3:
 
 Board is empowered to create and enforce “reasonable rules and regulations”
 
@@ -39,31 +39,31 @@ Similar rights and obligations of Sections 1, 2, and 3
 
 For purposes of this document, the following definitions shall apply:
 
-The "Property" shall mean and refer to Lot 4, CEBAR RANCH LAKEVIEW ACRES, a subdivision in Travis County, Texas as shown on map or plat of record in Volume 5, Page 43, Real Property Records of Travis County, Texas.
+The "Property" shall mean and refer to Lot 4, CEBAR RANCH LAKEVIEW ACRES, a subdivision in Travis County, Texas as shown on map or plat of record in [Volume 5, Page 43, Real Property Records](</pdfs/Plat Book 5 Page 43 (57).pdf>) of Travis County, Texas.
 
 The "Park" shall mean and refer to the Westernmost 303 feet of Lot 4, CeBar Ranch, Lakeview Acres, a subdivision in Travis County, Texas, according to the map or plat thereof of record in Plat Book 5, Page 43, of the Plat Records of Travis County, Texas, together with all improvements thereof situated.
 
-**\## TIMELINE: Summary of the Dedicatory Instruments and other Records**
+## TIMELINE: Summary of the Dedicatory Instruments and other Records
 
-**\### Prior to 1959**
+# Prior to 1959
 
 The Property was owned by Austin Lake Estates, Inc. ("ALE").
 
-**\### 1958, December 15**
+# 1958, December 15
 
-ALE grants easement to owners of lots in Austin Lake Estates \[Section 1\](\<section1.md>) (the "ALE Section 1 Easement") to use a portion of the Property (described as the "portion of \[the Property\] fronting on Lake Austin and extending back from the lake to a point fifty feet North of the J.F. Clark easement line as reflected by Volume 275, Page 80, of the Deed Records of Travis County, Texas) for a picnic and park grounds, swimming and for launching and landing boats.
+ALE grants easement to owners of lots in Austin Lake Estates [Section 1](</section1>) (the "ALE Section 1 Easement") to use a portion of the Property (described as the "portion of the Property fronting on Lake Austin and extending back from the lake to a point fifty feet North of the J.F. Clark easement line as reflected by Volume 275, Page 80, of the Deed Records of Travis County, Texas) for a picnic and park grounds, swimming and for launching and landing boats.
 
-The easement also granted the lot owners an easement of ingress and egress over existing roads built over the Property for the purpose of going to and from the portion subject to the recreation easement for the uses authorized. The easement further provided that the easement holders have no right to erect or maintain any structure of any kind or character on the Property. In addition, ALE reserved the right to erect such buildings, improvements and facilities as it desires or to lease such property for such purposes. Finally, the easement provided that the easement holders use of the Property shall at all times be reasonable and the rights of others be honored and respected, and that ALE or its successors shall have the right to promulgate and enforce reasonable rules and regulations as to the use of the Property by the easement holders. The ALE Section 1 Easement is recorded at \[Volume 1992, Page 49, of the Deed Records of Travis County, Texas\](\<assets 1958-12-23="" deed="" (1992="" -="" 49-50)="" section="" one.pdf="">), and Austin Lakes Estates Section 1 refers to the plat recorded at \[Book 9, Page 34, of the Plat Records of Travis County\](\<assets austin="" lake="" estates="" -="" section="" one.pdf="">), Texas.
+The easement also granted the lot owners an easement of ingress and egress over existing roads built over the Property for the purpose of going to and from the portion subject to the recreation easement for the uses authorized. The easement further provided that the easement holders have no right to erect or maintain any structure of any kind or character on the Property. In addition, ALE reserved the right to erect such buildings, improvements and facilities as it desires or to lease such property for such purposes. Finally, the easement provided that the easement holders use of the Property shall at all times be reasonable and the rights of others be honored and respected, and that ALE or its successors shall have the right to promulgate and enforce reasonable rules and regulations as to the use of the Property by the easement holders. The ALE Section 1 Easement is recorded at [Volume 1992, Page 49, of the Deed Records of Travis County, Texas](</pdfs/1958-12-23 Deed (1992 - 49-50) - Section One.pdf>) >), and Austin Lakes Estates Section 1 refers to the plat recorded at [Book 9, Page 34, of the Plat Records of Travis County](</pdfs/Austin Lake Estates - Section One.pdf>), Texas.
 
-**\### 1959, March 9**
+# 1959, March 9
 
 ALE grants identical easement to owners of lots in Austin Lakes Estates Section 2 (the "ALE Section 2 Easement"). The ALE Section 2 Easement is recorded at \[Volume 2015, Page 248, of the Deed Records of Travis County, Texas, and Austin Lakes Estates Section 2 refers to the plat recorded at Book 9, Page 82, of the Plat Records of Travis County, Texas.
 
-**\### 1959, June 5**
+# 1959, June 5
 
 ALE grants identical easement to owners of lots in Austin Lakes Estates Section 3 (the "ALE Section 3 Easement"). The ALE Section 1 Easement is recorded at Volume 2104, Page 305, of the Deed Records of Travis County, Texas, and Austin Lakes Estates Section 1 refers to the plat recorded at Book 9, Page 133, of the Plat Records of Travis County, Texas.
 
-**\### 1959, October**
+# 1959, October
 
 ALE conveyed the Property to Austin Lake Estates Recreation Club, Inc. ("ALERC"). No copy of a deed of conveyance for this transaction was found by title company, but such conveyance was reported in the Austin Lake Estates Recreation Club, Inc. v. Gilliam, 493 S.W.2d 343 (Austin 1973 writ ref'd) (hereinafter, the "ALERC Lawsuit"). According to such appellate opinion,
 
