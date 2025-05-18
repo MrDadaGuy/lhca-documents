@@ -16,7 +16,8 @@ paginate = 0
   baseURL = "http://localhost:1313/"
 
 [production]
-  baseURL = "https://mrdadaguy.github.io/lhca-documents/"
+#  baseURL = "https://mrdadaguy.github.io/lhca-documents/"
+   baseURL = "https://docs.lakehillsca.org/"
 
 
 [menu]
