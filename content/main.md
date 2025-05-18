@@ -5,7 +5,7 @@ title = 'Deeded Access History & Information'
 
 ## The Park Property
 
-Entire Park - “Lot 4, CEBAR RANCH LAKEVIEW ACRES, a subdivision in Travis County, Texas as shown on map or plat of record in [Volume 5, Page 43, Real Property Records](<pdfs/Plat Book 5 Page 43 (57).pdf>) of Travis County, Texas”
+Entire Park - “Lot 4, CEBAR RANCH LAKEVIEW ACRES, a subdivision in Travis County, Texas as shown on map or plat of record in [Volume 5, Page 43, Real Property Records](</pdfs/Plat Book 5 Page 43 (57).pdf>) of Travis County, Texas”
 
 The “Western 303” ft, upon which certain rights were granted at a later point, to be discussed in detail below.
 
