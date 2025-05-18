@@ -1,5 +1,5 @@
 {{ define "main" }}
-  <article class="w-two-thirds-l {{ $.Param "text_color" | compare.Default "mid-gray" }}">
+  <article class="flex-l mw8 center ph3 flex-wrap justify-between {{ $.Param "text_color" | compare.Default "mid-gray" }}">
     {{ .Content }}
   </article>
 {{ end }}
