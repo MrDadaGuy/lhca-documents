@@ -1,8 +1,7 @@
 {{ define "main" }}
-  <div class="pb3 ph3 ph0-l">
-    <article class="athelas f5 gray mt0 mv6-l mv5 ph3 ph0-l no-underline mv3">
-      {{ .Content }}
-    </article>
-  </div>
+  <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy nested-links {{ $.Param "text_color" | compare.Default "mid-gray" }}">
+    {{ .Content }}
+  </article>
+
 {{ end }}
 
