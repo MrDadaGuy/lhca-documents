@@ -71,4 +71,9 @@ aside {
     content: '\002D'; /* Change to a minus sign when open */
   }
 
+/* overriding the centering that its doing on the index page */
 
+  tc-l
+  {
+    text-align: left;
+  }
