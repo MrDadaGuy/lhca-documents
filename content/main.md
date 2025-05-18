@@ -9,32 +9,6 @@ Entire Park - “Lot 4, CEBAR RANCH LAKEVIEW ACRES, a subdivision in Travis Coun
 
 The “Western 303” ft, upon which certain rights were granted at a later point, to be discussed in detail below.
 
-Access Rights - A person might have access to the property based on their LHCA Membership, or “Deeded Access”, or both.
-
-## Membership
-
-Eligibility for Membership is not dependent on Deeded Access rights, but rather on the membership boundaries and eligibility criteria in the By Laws, which permits the membership to decide changes to the boundaries. Such extensions to membership boundary get proposed from time to time in the annual ballot.
-
-## Deeded Access (Easement Rights)
-
-* Deeded Access rights generally refer to Easements on the park property itself. Contrary to some misunderstanding, it is irrelevant whether your property deed has any reference to the park property. What matters is what legal rights are bound up with the park property itself.
-
-* An easement is a type of property right; it is a legal encumbrance that runs with a parcel of land, in this case, some neighboring properties carry the right to enter parts or all of the Park property.
-
-* An easement is a right to use, access, or traverse one piece of property that is granted to another person or another parcel of property.
-
-In this case, early developers of the area decided that “Lot 4” should be reserved and access rights provided to lure buyers to adjoining tracts to increase their appeal / value.
-
-[Deeded Access Map](<https://boundaries.lakehillsca.org/>) - this is intended to be representative, it may not be exact but it is generally correct and the outer boundary is sufficiently accurate. The exact demarcations from one survey to another are adequately representative, but are not based on a survey by the author of these maps and this documentation.
-
-## Rights of Sections 1, 2, and 3:
-
-Board is empowered to create and enforce “reasonable rules and regulations”
-
-Rights of the adjacent 826.16 acres:
-
-Similar rights and obligations of Sections 1, 2, and 3
-
 ## Definitions:**
 
 For purposes of this document, the following definitions shall apply:

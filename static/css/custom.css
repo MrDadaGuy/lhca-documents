@@ -1,4 +1,4 @@
-/* Default: short hero for all pages */
+/*  override to tweak hero image and header image */
 
 .bg-top {
     position: relative;
@@ -18,8 +18,9 @@
     background-color: rgba(0,0,0,.85);
     height: 80px;
     background-size: cover;
-    background-position: center;
+/*    background-position: center; */
     background-image: url("/images/lhca-drone.jpg");
+    opacity: .5;
   }
 
 .fw2, .fw4
@@ -70,5 +71,5 @@ aside {
   details[open] > summary::before {
     content: '\002D'; /* Change to a minus sign when open */
   }
-  
+
 
