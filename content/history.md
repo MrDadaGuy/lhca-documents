@@ -9,7 +9,7 @@ Entire Park - “Lot 4, CEBAR RANCH LAKEVIEW ACRES, a subdivision in Travis Coun
 
 The “Western 303” ft, upon which certain rights were granted at a later point, to be discussed in detail below.
 
-## Definitions:**
+## Definitions:
 
 For purposes of this document, the following definitions shall apply:
 
@@ -27,15 +27,15 @@ The Property was owned by Austin Lake Estates, Inc. ("ALE").
 
 ALE grants easement to owners of lots in Austin Lake Estates [Section 1](</section1>) (the "ALE Section 1 Easement") to use a portion of the Property (described as the "portion of the Property fronting on Lake Austin and extending back from the lake to a point fifty feet North of the J.F. Clark easement line as reflected by Volume 275, Page 80, of the Deed Records of Travis County, Texas) for a picnic and park grounds, swimming and for launching and landing boats.
 
-The easement also granted the lot owners an easement of ingress and egress over existing roads built over the Property for the purpose of going to and from the portion subject to the recreation easement for the uses authorized. The easement further provided that the easement holders have no right to erect or maintain any structure of any kind or character on the Property. In addition, ALE reserved the right to erect such buildings, improvements and facilities as it desires or to lease such property for such purposes. Finally, the easement provided that the easement holders use of the Property shall at all times be reasonable and the rights of others be honored and respected, and that ALE or its successors shall have the right to promulgate and enforce reasonable rules and regulations as to the use of the Property by the easement holders. The ALE Section 1 Easement is recorded at [Volume 1992, Page 49, of the Deed Records of Travis County, Texas](</pdfs/1958-12-23 Deed (1992 - 49-50) - Section One.pdf>) >), and Austin Lakes Estates Section 1 refers to the plat recorded at [Book 9, Page 34, of the Plat Records of Travis County](</pdfs/Austin Lake Estates - Section One.pdf>), Texas.
+The easement also granted the lot owners an easement of ingress and egress over existing roads built over the Property for the purpose of going to and from the portion subject to the recreation easement for the uses authorized. The easement further provided that the easement holders have no right to erect or maintain any structure of any kind or character on the Property. In addition, ALE reserved the right to erect such buildings, improvements and facilities as it desires or to lease such property for such purposes. Finally, the easement provided that the easement holders use of the Property shall at all times be reasonable and the rights of others be honored and respected, and that ALE or its successors shall have the right to promulgate and enforce reasonable rules and regulations as to the use of the Property by the easement holders. The ALE Section 1 Easement is recorded at [Volume 1992, Page 49, of the Deed Records of Travis County, Texas](</pdfs/Vol-1992-p49-50-Section-One.pdf>) >), and Austin Lakes Estates Section 1 refers to the plat recorded at [Book 9, Page 34, of the Plat Records of Travis County](</pdfs/Austin Lake Estates - Section One.pdf>), Texas.
 
 ### 1959, March 9
 
-ALE grants identical easement to owners of lots in Austin Lakes Estates Section 2 (the "ALE Section 2 Easement"). The ALE Section 2 Easement is recorded at [Volume 2015, Page 248, of the Deed Records of Travis County](</pdfs/1969-03-16 Deed (2015 - 248-250) - Section Two.pdf>), Texas, and Austin Lakes Estates Section 2 refers to the plat recorded at [Book 9, Page 82, of the Plat Records of Travis County](</pdfs/Austin Lake Estates - Section Two.pdf>), Texas.
+ALE grants identical easement to owners of lots in Austin Lakes Estates [Section 2](</section2>) (the "ALE Section 2 Easement"). The ALE Section 2 Easement is recorded at [Volume 2015, Page 248, of the Deed Records of Travis County](</pdfs/Vol-2015-p248-250-Section-Two.pdf>), Texas, and Austin Lakes Estates Section 2 refers to the plat recorded at [Book 9, Page 82, of the Plat Records of Travis County](</pdfs/Austin Lake Estates - Section Two.pdf>), Texas.
 
 ### 1959, June 5
 
-ALE grants identical easement to owners of lots in Austin Lakes Estates Section 3 (the "ALE Section 3 Easement"). The ALE Section 1 Easement is recorded at [Volume 2104, Page 305, of the Deed Records of Travis County](</pdfs/1969-10-26 Deed (2104 - 305-307) - Section Three.pdf>), Texas, and Austin Lakes Estates Section 1 refers to the plat recorded at [Book 9, Page 133, of the Plat Records of Travis County](</pdfs/Austin Lake Estates - Section Three.pdf>), Texas.
+ALE grants identical easement to owners of lots in Austin Lakes Estates [Section 3](</section3>) (the "ALE Section 3 Easement"). The ALE Section 1 Easement is recorded at [Volume 2104, Page 305, of the Deed Records of Travis County](</pdfs/Vol-2104-p305-307-Section-Three.pdf>), Texas, and Austin Lakes Estates Section 1 refers to the plat recorded at [Book 9, Page 133, of the Plat Records of Travis County](</pdfs/Austin Lake Estates - Section Three.pdf>), Texas.
 
 ### 1959, October
 
