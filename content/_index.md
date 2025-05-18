@@ -10,8 +10,7 @@ This site is an attempt to preserve historical information about Lake Hills Comm
   - [Section 1](/section1)
   - [Section 2](/section2)
   - [Section 3](/section3)
-  - [the826acres](/the826acres)
-- [faq](/faq)
-- Links
-- PDFs
+  - [The 826 Acres](/the826acres)
+- [Frequently Asked Questions](/faq)
+
 

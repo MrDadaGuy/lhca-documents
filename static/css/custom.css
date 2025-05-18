@@ -73,7 +73,7 @@ aside {
 
 /* overriding the centering that its doing on the index page */
 
-  tc-l
+  .tc-l
   {
     text-align: left;
   }
