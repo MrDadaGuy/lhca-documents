@@ -19,6 +19,6 @@ That we, Chas. A. Duffy and wife, Edna J. Duffy, of the County of Travis, State 
 
 Much of the remainder of the document catalogs old metes & bounds information, including markers such as a cedar stump that had a nail in it in 1915.  This is not very helpful, but fortunately this old WCID18 map shows all of those original old survey locations:
 
-[![WCID 18 Map](/images/wcid18map.png)](</pdfs/vol89pg086-wcid18map.PDF>)
+[![WCID 18 Map](/images/wcid18map.png)](</pdfs/vol89pg086-wcid18map.PDF>){target="_blank"}
 
 ![826 acres map](/images/826acres.png)
