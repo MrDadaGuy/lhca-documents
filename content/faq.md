@@ -5,21 +5,26 @@ title = 'Frequently Asked Questions'
 
 
 {{< faq-item question="Who owns the park?  How is it run?" >}}
-    The park is owned and managed by Lake Hills Park Assocation, a 501(c)(7) organization.
-    The association operates according to its By-Laws, and is administered by an All Volunteer Board of Directors, per the By Laws.
-    The day to day management of the park is handled by <a href="https://camanagers.com" target="_blank">Community Association Managers</a>.
+    <ul>
+    <li>The park is owned and managed by Lake Hills Park Assocation, a 501(c)(7) organization.</li>
+    <li>The association operates according to its By-Laws, and is administered by an All Volunteer Board of Directors, per the By Laws.</li>
+    <li>The day to day management of the park is handled by <a href="https://camanagers.com" target="_blank">Community Association Managers</a>.</li>
+    </ul>
 {{< /faq-item >}}
 
 
 
 {{< faq-item question="Who can use the park?" >}}
 Access Rights:  A person might have access to the property based on their LHCA Membership, or “Deeded Access”, both, or neither.
-<ul>A person or household may be eligible to use the property if:
+<br/><br/>
+A person or household may be eligible to use the property if:
+<ul>
     <li> They own property within the Membership boundary area, and they have an active membership in good standing with LHCA</li>
     <li> They rent property from a member and the member has paid a membership Tenant Transfer Fee </li>
     <li> They own property within the Deeded Access boundary area</li>
     <li> They are a guest of a member who is present</li>
 </ul>
+<br/><br/>
 It is important to note that the Membership Boundary Area and the Deeded Access Boundary Area are distinct; there is considerable overlap but the difference is that the Members can vote to change the Membership area but Deeded Access boundary was created by easements on the park property itself.
 <br/><br/>
 The Membership boundaries and membership eligibility criteria are defined in the By Laws, which permits the membership to decide changes to the boundaries. Such extensions to membership boundary get proposed from time to time in the annual ballot.
@@ -49,7 +54,8 @@ No!  Now go away or I will taunt you a second time!
 <li> Deeded Access rights generally refer to Easements on the park property itself. Contrary to some misunderstanding, it is irrelevant whether your property deed has any reference to the park property. What matters is what legal rights are bound up with the park property itself.</li>
 <li> An easement is a type of property right; it is a legal encumbrance that runs with a parcel of land, in this case, some neighboring properties carry the right to enter parts or all of the Park property.</li>
 <li> An easement is a right to use, access, or traverse one piece of property that is granted to another person or another parcel of property. </li>
-In this case, early developers of the area decided that “Lot 4” should be reserved and access rights provided to lure buyers to adjoining tracts to increase their appeal / value.
+<li>In this case, early developers of the area decided that “Lot 4” should be reserved and access rights provided to lure buyers to adjoining tracts to increase their appeal / value.</ul>
+</ul>
 {{< /faq-item >}}
 
 

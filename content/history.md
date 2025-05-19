@@ -49,7 +49,7 @@ ALERC records a resolution of its Board of Directors stating that that the Park 
 
 ### 1973, April 4
 
-Austin Court of Appeals renders opinion in the ALERC Lawsuit affirming the trial court's judgment that upheld the 1969 quit claim deed and conformed the legal description to exclude any buildings inadvertently included in the "westernmost 303 feet" of the Property. See Austin Lake Estates Recreation Club, Inc. v. Gilliam, 493 S.W.2d 343 (Austin 1973-writ ref'd)
+Austin Court of Appeals renders opinion in the ALERC Lawsuit affirming the trial court's judgment that upheld the 1969 quit claim deed and conformed the legal description to exclude any buildings inadvertently included in the "westernmost 303 feet" of the Property. See [Austin Lake Estates Recreation Club, Inc. v. Gilliam, 493 S.W.2d 343 (Austin 1973-writ ref'd)](</pdfs/ALERC v Gilliam 493 sw2d 343 1973.pdf>).
 
 ### 1985, June 26
 
