@@ -31,6 +31,6 @@ Much of the remainder of the document catalogs old metes & bounds information, i
 
 From which we can derive the following map:
 
-{{< iframe src="https://www.google.com/maps/d/u/4/embed?mid=1AhZ_Vgq3KF9WTXosjzneLWy25vI4NuY&ehbc=2E312F" width="100%" height="640px" >}}
+{{< iframe src="https://www.google.com/maps/d/u/4/embed?mid=1AhZ_Vgq3KF9WTXosjzneLWy25vI4NuY&ehbc=2E312F" height="640px" >}}
 
 

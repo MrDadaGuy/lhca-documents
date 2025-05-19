@@ -1,7 +1,10 @@
-<iframe
-  src="{{ .Get "src" }}"
-  width="{{ .Get "width" | default "100%" }}"
-  height="{{ .Get "height" | default "480px" }}"
-  frameborder="0"
-  allowfullscreen="{{ .Get "allowfullscreen" | default "true" }}"
-></iframe>
+<div style="width: 100%;">
+  <iframe
+    src="{{ .Get "src" }}"
+    width="100%"
+    height="{{ .Get "height" | default "400px" }}"
+    frameborder="0"
+    allowfullscreen="{{ .Get "allowfullscreen" | default "true" }}"
+    style="display: block; width: 100%; border: none;"
+  ></iframe>
+</div>
