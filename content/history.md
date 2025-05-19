@@ -45,7 +45,7 @@ In October of 1959, the club acquired by deed from Austin Lake Estates, Inc., ti
 
 ### 1969, June 23
 
-ALERC records a resolution of its Board of Directors stating that that the Park (being the westernmost 303 feet of Lot 4, CeBar Ranch, Lakeview Acres, a subdivision in Travis County, Texas, according to the map or plat thereof of record in Plat Book 5, Page 43, of the Plat Records of Travis County, Texas, together with all improvements thereof situated) is to be conveyed into a trust for the benefit of the owners of lots in Austin Lake Estates, Sections 1, 2, and 3 and for all future purchasers of lots hereafter subdivided out of the [original 826.16 acre tract](<the826acres>) adjoining such subdivisions (the "1969 Trust Resolution"). The resolution further authorizes the corporation's VP, Robert Gilliam to execute a quit claim deed to trustees Emmett Fry, Charles Petterson, Dillard Vickers, and Farley as trustees. Although no copy of the deed was provided by the title company, the quit claim deed was the subject of the ALERC Lawsuit filed in 1969 by ALERC against Robert Gilliam (referenced above), the person who executed the quit claim deed, to have such deed declared invalid (which the trial court ruled was valid). The 1969 Trust Resolution is recorded at [Volume 3700, Page 1544, of the Deed Records of Travis County](</pdfs/Vol-3700-p1544.pdf>), Texas.
+ALERC records a resolution of its Board of Directors stating that that the Park (being the westernmost 303 feet of Lot 4, CeBar Ranch, Lakeview Acres, a subdivision in Travis County, Texas, according to the map or plat thereof of record in Plat Book 5, Page 43, of the Plat Records of Travis County, Texas, together with all improvements thereof situated) is to be conveyed into a trust for the benefit of the owners of lots in Austin Lake Estates, Sections 1, 2, and 3 and for all future purchasers of lots hereafter subdivided out of the [original 826.16 acre tract](</the826acres>) adjoining such subdivisions (the "1969 Trust Resolution"). The resolution further authorizes the corporation's VP, Robert Gilliam to execute a quit claim deed to trustees Emmett Fry, Charles Petterson, Dillard Vickers, and Farley as trustees. Although no copy of the deed was provided by the title company, the quit claim deed was the subject of the ALERC Lawsuit filed in 1969 by ALERC against Robert Gilliam (referenced above), the person who executed the quit claim deed, to have such deed declared invalid (which the [trial court ruled](</pdfs/ALERCvGilliamTrialCourt.pdf>) was valid). The 1969 Trust Resolution is recorded at [Volume 3700, Page 1544, of the Deed Records of Travis County](</pdfs/Vol-3700-p1544.pdf>), Texas.
 
 ### 1973, April 4
 
@@ -57,17 +57,17 @@ ALERC executes a warranty deed to Lake Hills Community Association, Inc. ("Lake 
 
 ### 2003, September 17
 
-By deed without warranty, Charles Petterson, one of the 4 trustees, of the Park conveyed the Park to Dennis R. Haire. Such deed is recorded at Document No. 2003266964 in the Official Public Records of Travis County, Texas.
+By deed without warranty, Charles Petterson, one of the 4 trustees, of the Park conveyed the Park to Dennis R. Haire. Such deed is recorded at [Document No. 2003266964](</pdfs/DeedWithoutWarranty2003.pdf>) in the Official Public Records of Travis County, Texas.
 
 ### 2006, March 13
 
-By deed without warranty, Dennis Haire conveyed the Park to Dennis R. Haire, Trustee; R. Gordon Bond, Trustee; and Timothy R. Nolan, Trustee. Such deed is recorded at Document No. 2006047304 in the Official Public Records of Travis County, Texas.
+By deed without warranty, Dennis Haire conveyed the Park to Dennis R. Haire, Trustee; R. Gordon Bond, Trustee; and Timothy R. Nolan, Trustee. Such deed is recorded at [Document No. 2006047304](</pdfs/DeedWithoutWarranty2006.pdf>) in the Official Public Records of Travis County, Texas.
 
 ### 2007, February 3
 
-By deed without warranty, Dennis R. Haire, individually and as Trustee; R. Gordon Bond, Trustee; and Timothy R. Nolan, Trustee conveyed the Park to Lake Hills. Such deed is recorded at Document No. 2007022788 in the Official Public Records of Travis County, Texas.
+By deed without warranty, Dennis R. Haire, individually and as Trustee; R. Gordon Bond, Trustee; and Timothy R. Nolan, Trustee conveyed the Park to Lake Hills. Such deed is recorded at [Document No. 2007022788](</pdfs/DeedWithoutWarranty2007.pdf>) in the Official Public Records of Travis County, Texas.
 
-Additionally, on the same day and in a separate document, Dennis R. Haire, Trustee; R. Gordon Bond, Trustee; and Timothy R. Nolan, Trustee, record a written document entitled "Restatement of Easement and Access Rights and Removal of Cloud on Title." Such deed is recorded at Document No. 2007022789 in the Official Public Records of Travis County, Texas.
+Additionally, on the same day and in a separate document, Dennis R. Haire, Trustee; R. Gordon Bond, Trustee; and Timothy R. Nolan, Trustee, record a written document entitled "Restatement of Easement and Access Rights and Removal of Cloud on Title." Such deed is recorded at [Document No. 2007022789](</pdfs/RestatementOfEasementRights2007.pdf>) in the Official Public Records of Travis County, Texas.
 
 ## Analysis of Dedicatory Instruments and other Records
 
