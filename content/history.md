@@ -53,7 +53,7 @@ Austin Court of Appeals renders opinion in the ALERC Lawsuit affirming the trial
 
 ### 1985, June 26
 
-ALERC executes a warranty deed to Lake Hills Community Association, Inc. ("Lake Hills") that purports to convey all of the Property (without regard to the earlier conveyance of the Park). Such warranty deed is recorded at Volume 9258, Page 788, of the Real Property Records of Travis County, Texas.
+ALERC executes a warranty deed to Lake Hills Community Association, Inc. ("Lake Hills") that purports to convey all of the Property (without regard to the earlier conveyance of the Park). Such warranty deed is recorded at [Volume 9258, Page 788](</pdfs/WarrantyDeed1985.pdf>), of the Real Property Records of Travis County, Texas.
 
 ### 2003, September 17
 
