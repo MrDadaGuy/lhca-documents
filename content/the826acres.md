@@ -27,7 +27,7 @@ However, the [1959 deed](</pdfs/Vol-2045-p155-160.pdf>) from Duffy to ALE does d
 
 Much of the remainder of the document catalogs old metes & bounds information, including markers such as a cedar stump that had a nail in it in 1915.  This is not very helpful, but fortunately this old WCID 18 map shows all of those original old survey locations:
 
-[![WCID 18 Map](/images/wcid18map.png)](</pdfs/vol89pg086-wcid18map.PDF>){target="_blank"}
+[![WCID 18 Map](/images/wcid18map.png)](</pdfs/vol89pg086-wcid18map.PDF>){:target="_blank"}
 
 ![826 acres map](/images/826acres.png)
 
