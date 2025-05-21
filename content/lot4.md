@@ -3,8 +3,6 @@ draft = false
 title = 'Lot 4'
 +++
 
-## Lot 4
-
 [lot 14 map](/images/lot14map.png)
 
 Lot # 4.  Here we'll talk about the park grounds, and look at maps of the westermost 303 feet, as well as:
