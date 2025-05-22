@@ -8,7 +8,7 @@ In the original maps for the area, it shows that [Lot 4](</lot4>) and lot 14 wer
 {{< figure
   src="/images/lot14map.png"
   alt="Lot 14 Map"
-  width="960px"
+  width="100%"
 >}}
 
 What happened with Lot 14?  Follow the money.

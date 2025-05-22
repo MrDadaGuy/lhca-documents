@@ -3,7 +3,11 @@ draft = false
 title = 'Lot 4'
 +++
 
-![lot 14 map](/images/lot14map.png)
+{{< figure
+  src="/images/lot14map.png"
+  alt="Lot 14 Map"
+  width="100%"
+>}}
 
 Lot # 4.  Here we'll talk about the park grounds, and look at maps of the westermost 303 feet, as well as:
 
