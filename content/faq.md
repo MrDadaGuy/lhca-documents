@@ -4,6 +4,7 @@ title = 'Frequently Asked Questions'
 +++
 
 
+
 {{< faq-item question="Who owns the park?  How is it run?" >}}
     <ul>
     <li>The park is owned and managed by Lake Hills Park Assocation, a 501(c)(7) organization.</li>
@@ -46,6 +47,18 @@ Membership is capped and there is often a wait list to get a membership position
 No!  Now go away or I will taunt you a second time!
 <img src="https://misc-ramblings.com/wp-content/uploads/monty-python-french-taunting.jpg" />
 {{< /faq-item >}}
+
+
+
+
+{{< faq-item question="I have reserved a short term rental in the neighborhood, and the listing or host says that I will have access to the park." >}}
+
+Your host is not telling you the truth.  The park is not open to the public.  Short Term Rental access is expliclty forbidden in our By-laws.  We regularly comminicate this to our members.  
+
+Our security guards WILL check your ID at the gate and you WILL be denied entry.
+
+{{< /faq-item >}}
+
 
 
 
