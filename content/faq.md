@@ -44,8 +44,8 @@ Membership is capped and there is often a wait list to get a membership position
 
 
 {{< faq-item question="Is the park open to the public?" >}}
-No!  Now go away or I will taunt you a second time!
-<img src="https://misc-ramblings.com/wp-content/uploads/monty-python-french-taunting.jpg" />
+No.  It is open only to Members and to homes inside the easement boundaries.   
+<!--img src="https://misc-ramblings.com/wp-content/uploads/monty-python-french-taunting.jpg" /-->
 {{< /faq-item >}}
 
 
