@@ -19,7 +19,7 @@ The trial court "recognized the existence of a perpetual easement for ingress an
 
 In the appeal, the trial court's findings were affirmed.
 
-Unfortunately, neither the trial court record, nor the appellate court record, nor the [1969 Quitclaim Deed](</pdfs/Vol-3700-p1544.pdf>) (referenced in the lawsuit) gave a description or map of the 826 acres.
+Unfortunately, neither the [trial court record](</pdfs/ALERCvGilliamTrialCourt.pdf>), nor the [appellate court record](</pdfs/ALERC v Gilliam 493 sw2d 343 1973.pdf>), nor the [1969 Quitclaim Deed](</pdfs/Vol-3700-p1544.pdf>) (referenced in the lawsuit) gave a description or map of the 826 acres.
 
 However, the [1959 deed](</pdfs/Vol-2045-p155-160.pdf>) from Duffy to ALE does describe the property (pertenant part below):
 
