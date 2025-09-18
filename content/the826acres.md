@@ -34,3 +34,6 @@ From which we can derive the following map:
 {{< iframe src="https://www.google.com/maps/d/u/4/embed?mid=1AhZ_Vgq3KF9WTXosjzneLWy25vI4NuY&ehbc=2E312F&noprof=1" height="640px" >}}
 
 
+NOTE:  Most of the property lines in our neighborhood were drawn along survey lines, but there are a small number of homes that have a portion of their property in an original survey.  One example is 10212 Birdlip Circle - a portion of this property is in the Tyler Tap #40 Survey, and thus the Association has generally treated these properties as being subject to the deeded access rights.
+
+
